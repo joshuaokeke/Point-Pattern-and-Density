@@ -1,5 +1,5 @@
-# Spatial Statistics Lab 3
-Welcome to the Spatial Statistics Lab 3 repository! This repository contains R code for simulating various point patterns, including homogeneous and inhomogeneous Poisson processes, regular pattern point processes, and clustering pattern point processes using the `spatstat` package.
+# Point Analysis
+This repository contains R code for simulating various point patterns, including homogeneous and inhomogeneous Poisson processes, regular pattern point processes, and clustering pattern point processes using the `spatstat` package.
 
 ## Table of Contents
 
@@ -37,4 +37,4 @@ In this part, we explore clustering pattern point processes using the `rThomas` 
 To get started with the analysis, clone this repository to your local machine and open the R script file (`Spatial_Statistics_Lab_3.Rmd`) in RStudio or any R environment of your choice. Run each code chunk sequentially to execute the simulations and visualize the results.
 
 ```bash
-git clone https://github.com/your-username/spatial-statistics-lab-3.git
+git clone https://github.com/your-username/point-pattern-and-density.git
